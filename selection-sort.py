@@ -11,7 +11,7 @@ def selection_sort(array):
 
     
 if __name__ == '__main__': 
-    arr = [4, 2, 1, 3]
+    arr = [4, 2, 1, 3, 0, -1, 5]
     print('Before: ')
     print(arr)
     selection_sort(arr)
